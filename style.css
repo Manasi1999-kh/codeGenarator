@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(180, 180, 147);
+}
+button{
+    text-align: center;
+    background-color: rgb(116, 116, 143);
+    margin-top: 5%;
+    margin-left: 40%; 
+    color:white;
+    width: 20%;
+    border-radius: 5px;
+    margin-right: auto;
+}
+.d{
+    background-color: rgb(179, 55, 55);
+    margin-top: 5%;
+}
+#d{
+    text-align: center;
+    color:blueviolet;
+    font-size: 20px;
+}
+.c{
+    margin-top: 10%;
+    border:cornsilk;
+    width:50%;
+    height:50%;
+    background-color:whitesmoke;
+    margin-left: 20%;
+    border-radius: 10px;
+
+}
+#a{
+    margin-left: 70%;
+    color:blue;
+    font: size 20px;
+}
+button:hover{background-color:rgb(255, 230, 0);}
+ 
+ span{
+     font-size: 50px;
+     margin-left: 20%;
+ }
